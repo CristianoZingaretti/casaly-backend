@@ -1,0 +1,11 @@
+.idea/workspace.xml
+git init
+echo "/target" >> .gitignore
+echo ".idea" >> .gitignore
+echo "*.iml" >> .gitignore
+git add .
+git commit -m "Inizializzazione progetto Casaly"
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
